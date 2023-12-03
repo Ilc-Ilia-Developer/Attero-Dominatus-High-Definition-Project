@@ -1,6 +1,6 @@
 # The Attero Dominatus High Definition Project
 
-This project aims to develop a custom neural network capable of upscaling old music videos, such as Attero Dominatus and Cliffs of Gallipoly, to high definition (1080p). By leveraging artificial intelligence, we seek to enhance the quality of these videos, preserving their artistic value for future generations.
+This project aims to develop a custom neural network capable of upscaling old music videos, such as Attero Dominatus and Cliffs of Gallipoli, to high definition (1080p). By leveraging artificial intelligence, we seek to enhance the quality of these videos, preserving their artistic value for future generations.
 
 # Approach
 
